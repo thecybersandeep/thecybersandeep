@@ -5,16 +5,17 @@
 # Sandeep Wawdane
 Penetration Tester
 
-<table align="center" style="margin: auto;">
+<table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=thecybersandeep&show_icons=true&theme=dark&hide_border=true" width="300" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=thecybersandeep&show_icons=true&theme=light&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub Stats"/>
     </td>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecybersandeep&layout=compact&theme=dark&hide_border=true" width="300" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecybersandeep&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Top Languages"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
