@@ -1,16 +1,28 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/cf9f007e-1378-49a3-8fd7-177b347c8ce1)
 
-<!--
-**thecybersandeep/thecybersandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sandeep Wawdane
+Penetration Tester
+
+---
+
+## Projects
+
+- **Frida-Launcher**: App for launching and managing Frida scripts on Android.
+- **MobApp-DataExtractor**: Tool for extracting data from mobile applications.
+- **Buggy-Bird-Game**: Python game for testing randomness.
+- **Vuln-Down-Checker**: Out-of-band PHP tool for uptime and vulnerability monitoring.
+- **Cosmic Snapshot**: C# thick-client SSL bypass for retrieving NASA’s daily image.
+- **SecureXPass**: Swift demo for encrypted credential storage.
+
+---
+
+## Writing
+[Security insights on Medium](https://medium.com/@thecybersandeep)
+
+---
+
+## Connect
+- [LinkedIn](https://linkedin.com/in/sandeepwawdane)
+- [GitHub](https://github.com/thecybersandeep)
