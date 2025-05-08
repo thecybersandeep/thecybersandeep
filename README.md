@@ -5,28 +5,16 @@
 # Sandeep Wawdane
 Penetration Tester
 
-<table align="center">
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=thecybersandeep&show_icons=true&theme=light&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub Stats"/>
-    </td>
-    <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecybersandeep&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
 ## Projects
 
-- **Frida-Launcher**: App for launching and managing Frida scripts on Android.
-- **MobApp-DataExtractor**: Tool for extracting data from mobile applications.
-- **Buggy-Bird-Game**: Python game for testing randomness.
-- **Vuln-Down-Checker**: Out-of-band PHP tool for uptime and vulnerability monitoring.
-- **Cosmic Snapshot**: C# thick-client SSL bypass for retrieving NASA’s daily image.
-- **SecureXPass**: Swift demo for encrypted credential storage.
+* **Frida-Launcher**: An Android app for launching and managing the Frida server.
+* **MobApp-DataExtractor**: A tool for extracting data from mobile applications on iOS and Android.
+* **Buggy-Bird-Game**: A Python game for testing randomness and Burp plugin integration.
+* **Vuln-Down-Checker**: A PHP-built, out-of-band vulnerable site.
+* **Cosmic Snapshot**: A C# thick-client SSL-bypass project to retrieve NASA’s daily image.
+* **SecureXPass**: A Swift demo app for encrypted credential storage.
 
 ---
 
@@ -36,5 +24,8 @@ Penetration Tester
 ---
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/sandeepwawdane)
-- [GitHub](https://github.com/thecybersandeep)
+
+* [LinkedIn](https://linkedin.com/in/sandeepwawdane)
+* [GitHub](https://github.com/thecybersandeep)
+* [X (Twitter)](https://x.com/thecybersandeep)
+
