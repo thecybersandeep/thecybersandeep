@@ -9,6 +9,7 @@ Penetration Tester
 
 ## Projects
 
+* **MobApp-Storage Inspector**: Make mobile app storage analysis effortless with an all-in-one, cross-platform application.
 * **Frida-Launcher**: An Android app for launching and managing the Frida server.
 * **MobApp-DataExtractor**: A tool for extracting data from mobile applications on iOS and Android.
 * **Buggy-Bird-Game**: A Python game for testing randomness and Burp plugin integration.
