@@ -8,7 +8,9 @@ Penetration Tester
 ---
 
 ## Projects
-
+* **frida-script-gen**: Generate Frida bypass scripts for Android APK root and SSL checks.
+* **apk-components-inspector**: A lightweight Python-based tool to extract and enumerate exploits of Android components.
+* **Cosmic-Snapshot-Java-Edition**: A JavaFX application that displays NASA's Astronomy Picture of the Day.
 * **MobApp-Storage Inspector**: Make mobile app storage analysis effortless with an all-in-one, cross-platform application.
 * **Frida-Launcher**: An Android app for launching and managing the Frida server.
 * **MobApp-DataExtractor**: A tool for extracting data from mobile applications on iOS and Android.
