@@ -25,6 +25,7 @@
 
 | 📦 Project | 🛠️ Description |
 |---|---|
+| **[BXEditor - Burp Suite Extension Developer](https://github.com/thecybersandeep/bxeditor)** | VS Code extension for Burp Suite Extension development. Built for security dev and penetration testers. |
 | **[frida-script-gen](https://github.com/thecybersandeep/frida-script-gen)** | Generate Frida bypass scripts for Android APK root and SSL checks |
 | **[apk-components-inspector](https://github.com/thecybersandeep/apk-components-inspector)** | Lightweight Python tool to extract and enumerate exploits of Android components |
 | **[MobApp-Storage Inspector](https://github.com/thecybersandeep/MobApp-Storage-Inspector)** | All-in-one cross-platform tool for mobile app storage analysis |
@@ -33,6 +34,7 @@
 | **[Vuln-Down-Checker](https://github.com/thecybersandeep/Vuln-Down-Checker)** | PHP-built, out-of-band vulnerable site for security testing |
 | **[SecureXPass](https://github.com/thecybersandeep/SecureXPass)** | Swift demo app showcasing encrypted credential storage |
 | **[Cosmic Snapshot](https://github.com/thecybersandeep/Cosmic-Snapshot)** | C# thick-client SSL-bypass project to retrieve NASA's daily image |
+
 
 …and more: Mobile security tools, vulnerability demos, and security research projects!
 
