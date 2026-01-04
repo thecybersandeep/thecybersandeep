@@ -25,6 +25,7 @@
 
 | 📦 Project | 🛠️ Description |
 |---|---|
+| **[ADBauditor](https://github.com/thecybersandeep/adbauditor)** | Browser-based Android security auditing tool using WebUSB + ADB protocol. 100% client-side processing. |
 | **[BXEditor - Burp Suite Extension Developer](https://github.com/thecybersandeep/bxeditor)** | VS Code extension for Burp Suite Extension development. Built for security dev and penetration testers. |
 | **[frida-script-gen](https://github.com/thecybersandeep/frida-script-gen)** | Generate Frida bypass scripts for Android APK root and SSL checks |
 | **[apk-components-inspector](https://github.com/thecybersandeep/apk-components-inspector)** | Lightweight Python tool to extract and enumerate exploits of Android components |
