@@ -25,6 +25,7 @@
 
 | 📦 Project | 🛠️ Description |
 |---|---|
+| **[GraphQL Grip](https://github.com/thecybersandeep/graphql-grip)** | Burp Suite extension for GraphQL security testing |
 | **[IPA Auditor](https://github.com/thecybersandeep/ipa-auditor)** | Browser-based static security analysis platform for iOS IPA files. |
 | **[ADBauditor](https://github.com/thecybersandeep/adbauditor)** | Browser-based Android security auditing tool using WebUSB + ADB protocol. 100% client-side processing. |
 | **[BXEditor - Burp Suite Extension Developer](https://github.com/thecybersandeep/bxeditor)** | VS Code extension for Burp Suite Extension development. Built for security dev and penetration testers. |
