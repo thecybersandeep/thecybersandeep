@@ -41,4 +41,4 @@
 
 …and more: Mobile security tools, vulnerability demos, and security research projects!
 
-⭐ If any of these tools help you—and you're up for it—drop me a ⭐!
+⭐ If any of these tools help you and you're up for it drop me a ⭐!
