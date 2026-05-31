@@ -29,7 +29,7 @@ Static and live security analysis that runs entirely in the browser. No upload, 
 
 ### On-device runtime auditors
 
-The dynamic-analysis siblings of the static suite. These install **on the device** and serve an HTTPS dashboard from the phone itself — you drive it from any browser on the same network. Browse any installed app's private storage, query its databases, tail logs, drop to a root shell.
+The dynamic-analysis siblings of the static suite. These install **on the device** and serve an HTTPS dashboard from the phone itself  you drive it from any browser on the same network. Browse any installed app's private storage, query its databases, tail logs, drop to a root shell.
 
 | Tool | Purpose |
 |---|---|
