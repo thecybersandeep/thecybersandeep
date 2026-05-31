@@ -27,6 +27,15 @@ Static and live security analysis that runs entirely in the browser. No upload, 
 | **[APK Auditor](https://github.com/thecybersandeep/apkauditor)** · [apkauditor.com](https://apkauditor.com) | Android `.apk` static analysis. DEX bytecode parse, binary AXML decode, signing certificate, tracker SDK detection, 80+ rules tagged with CWE / OWASP MASVS. |
 | **[ADB Auditor](https://github.com/thecybersandeep/adbauditor)** · [adbauditor.com](https://adbauditor.com) | Live Android audit over WebUSB and the ADB protocol. App inventory, file browser with root, shell, screen capture, MASTG-aligned security tests. |
 
+### On-device runtime auditors
+
+The dynamic-analysis siblings of the static suite. These install **on the device** and serve an HTTPS dashboard from the phone itself — you drive it from any browser on the same network. Browse any installed app's private storage, query its databases, tail logs, drop to a root shell.
+
+| Tool | Purpose |
+|---|---|
+| **[IOSspect](https://github.com/thecybersandeep/iosspect)** · jailbroken iOS | On-device runtime audit. App bundle + data-container browser, SQLite SELECT, framework Mach-O probe, process / network tables, launchd log tail, root shell, `.ipa` repackage. |
+| **[AndroidSpect](https://github.com/thecybersandeep/androidspect)** · rooted Android | On-device runtime audit. `/data/data` browser, SQLite + SharedPreferences reader, manifest / component decode, native-lib scan, live logcat, process / socket tables, root shell. |
+
 ### Selected projects
 
 | Project | Description |
